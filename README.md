@@ -1,3 +1,5 @@
+![Vajra](/vajra.gif)
+
 # GTNH Trans Pride Resourcepack
 
 A resourcepack for GregTech New Horizons that retextures various commonly-used tools to be white, cyan, and pink
